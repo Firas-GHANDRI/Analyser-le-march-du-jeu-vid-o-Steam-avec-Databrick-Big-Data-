@@ -1,3 +1,1 @@
 Ce projet vise à comprendre ce qui intéresse les gens dans un contexte de speed dating. Nous analysons les données recueillies à partir d’une expérience de speed dating menée par Tinder. Le projet est une exploration des attributs comme l’attractivité, la sincérité, l’intelligence, le plaisir, l’ambition et les intérêts communs, et comment ils affectent le succès d’un match.
-
-Il vise à comprendre également quels facteurs affectent la popularité ou les ventes d’un jeu vidéo. 
